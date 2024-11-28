@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,dotnet,java,python,mysql,git,linux,php,laravel,spring,angular,flutter,unity" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,cpp,dotnet,java,spring,mysql,php,laravel,angular,flutter,unity,linux,python" alt="Skills Icons" />
 </p>
 
 
