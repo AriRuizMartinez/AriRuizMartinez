@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **Full-Stack Web Development**  
+🌱 I’m currently learning **.NET Framework**  
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
@@ -38,15 +38,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/ari-ruiz-martinez-a5495325b" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-profile-id" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" height="30" />
-  </a>
-  <a href="https://kaggle.com/your-profile-id" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="30" />
-  </a>
-  <a href="https://instagram.com/your-instagram-handle" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" />
   </a>
 </p>
 
