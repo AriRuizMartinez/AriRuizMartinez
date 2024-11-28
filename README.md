@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity Icon" title="Unity" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" title="Linux" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" title="Python" />
+  <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo Icon" title="MongoDB" />
 </p>
 
 
