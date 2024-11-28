@@ -12,11 +12,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,cpp,dotnet,java,spring" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" title="Git" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++ Icon" title="C++" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Icon" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon" title="Spring Boot" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,php,laravel,angular,flutter,unity,linux,python" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP Icon" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel Icon" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular Icon" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter Icon" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity Icon" title="Unity" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" title="Python" />
 </p>
+
 
 
 ---
