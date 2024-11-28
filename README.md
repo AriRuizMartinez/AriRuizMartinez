@@ -18,17 +18,17 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arii-ruiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="arii-ruiz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriRuizMartinez&show_icons=true&theme=dark&locale=en&layout=compact" alt="arii-ruiz" />
 </p>
 
 <br><br><br><br><br><br><br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arii-ruiz&show_icons=true&theme=dark&locale=en" alt="arii-ruiz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AriRuizMartinez&show_icons=true&theme=dark&locale=en" alt="arii-ruiz" />
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arii-ruiz&theme=dark" alt="arii-ruiz" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AriRuizMartinez&theme=dark" alt="arii-ruiz" />
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 
