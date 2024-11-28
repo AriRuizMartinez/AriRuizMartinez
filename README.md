@@ -73,6 +73,6 @@
 
 ---
 
-[Arii-Ruiz](https://github.com/arii-ruiz)
+[AriRuizMartinez](https://github.com/AriRuizMartinez)
 
 _Last Edited on: 28/11/2024_
