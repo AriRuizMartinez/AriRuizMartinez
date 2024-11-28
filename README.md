@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++ Icon" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C++ Icon" title="C++" />
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Icon" title=".NET" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" title="Java" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon" title="Spring Boot" />
