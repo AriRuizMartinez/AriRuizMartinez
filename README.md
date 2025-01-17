@@ -26,10 +26,10 @@
   <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery Icon" title="JQuery" />
   <img src="https://skillicons.dev/icons?i=ts" alt="Typescript Icon" title="Typescript" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" title="Python" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon" title="Azure" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo Icon" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Icon" title="NodeJS" />
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon" title="Azure" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL Icon" title="PostgresSQL" />
