@@ -21,7 +21,9 @@
   <img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" title="C#" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" title="Java" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=psql" alt="Spring Icon" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL Icon" title="PostgresSQL" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery Icon" title="JQuery" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" title="Postman" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" title="MySQL" />
@@ -33,7 +35,8 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" title="Linux" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" title="Python" />
   <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo Icon" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" alt="Spring Icon" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="Typescript Icon" title="Typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Icon" title="NodeJS" />
 </p>
 
 
@@ -72,4 +75,4 @@
 
 [AriRuizMartinez](https://github.com/AriRuizMartinez)
 
-_Last Edited on: 09/01/2025_
+_Last Edited on: 17/01/2025_
