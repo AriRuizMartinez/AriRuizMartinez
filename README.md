@@ -12,18 +12,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" title="Git" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Icon" title=".NET" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" title="C#" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" title="Java" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL Icon" title="PostgresSQL" />
   <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery Icon" title="JQuery" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo Icon" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="Typescript Icon" title="Typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Icon" title="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon" title="Azure" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" title="MySQL" />
@@ -34,9 +30,17 @@
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity Icon" title="Unity" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" title="Linux" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" title="Python" />
-  <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo Icon" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="Typescript Icon" title="Typescript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS Icon" title="NodeJS" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" title="Git" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Icon" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" title="C#" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" title="Java" />
+  
 </p>
 
 
